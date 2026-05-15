@@ -45,4 +45,9 @@ Caso ao contrário (else), o número é ímpar.
 6.
 <img width="600" height="373" alt="image" src="https://github.com/user-attachments/assets/24426325-b751-45d7-89b1-1f9eabcf3e32" />
 
-- 
+- int(input) Ele funciona para você digitar um número, para que possa saber se ele é primo ou não.
+- np = true, ele funciona para que o número é primo até que se prove ao contrário.
+- for i in range(2, num), ele cria um laço para que ele divida todos os números de 2 até o número que foi digitado.
+- if num % i == 0, ele vai texteando as divisões para ver se tem alguma divisão exta entre os números.
+- np = False, se ele encontrar alguma divisão que dê exata o número ele não é primo.
+- no final tem um print para mostrar se ele é primo ou não.
