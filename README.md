@@ -42,7 +42,7 @@ Caso ao contrário (else), o número é ímpar.
 - Depois eu coloquei um while len(), para ele atribuir alguma restrições que tinha na atividade para cada varíavel, onde ele trava a próxima pergunta até a pessoa digitar a resposta correta.
 - No final eu coloquei vários prints no final para colocar as informações de formas mais organizadas.
 
-6.
+**6.**
 <img width="600" height="373" alt="image" src="https://github.com/user-attachments/assets/24426325-b751-45d7-89b1-1f9eabcf3e32" />
 
 - int(input) Ele funciona para você digitar um número, para que possa saber se ele é primo ou não.
