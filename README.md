@@ -43,6 +43,7 @@ Caso ao contrário (else), o número é ímpar.
 - No final eu coloquei vários prints no final para colocar as informações de formas mais organizadas.
 
 **6.**
+
 <img width="600" height="373" alt="image" src="https://github.com/user-attachments/assets/24426325-b751-45d7-89b1-1f9eabcf3e32" />
 
 - int(input) Ele funciona para você digitar um número, para que possa saber se ele é primo ou não.
