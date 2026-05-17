@@ -63,7 +63,20 @@ Caso ao contrário (else), o número é ímpar.
 - E entãoeu coloqui um print para que pudesse mostrar o fatorial que foi o que a pessoa pediu.
 
  **8**
- 
+ <img width="470" height="478" alt="image" src="https://github.com/user-attachments/assets/bfbdcac0-4844-430e-ad02-2b79273bb441" />
 
-- np = False, se ele encontrar alguma divisão que dê exata o número ele não é primo.
-- no final tem um print para mostrar se ele é primo ou não.
+- Antes de tudo eu criei um lista L.
+- Então eu usei um várias funções:
+    - len = Que dá o tamanho da lista.
+    - max = Que dá o maior valor da lista.
+    - min = Que dá o menor valor da lista.
+    - sum = Que soma todos os valor da lista.
+    - sorted = Que coloca o termo em ordem crescente.
+    - sorted(L, reverse=true) = Que apesar do sorted deixar o termo em ordem crescente quando eu coloco que o reverse é o true(verdadeiro), ele entende que a a lista tem que colocar em ordem decrescente.
+
+**9**
+
+
+
+
+
