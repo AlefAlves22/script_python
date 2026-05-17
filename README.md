@@ -89,8 +89,11 @@ Caso ao contrário (else), o número é ímpar.
 - Se ele colocasse certo iria dar acesso liberado.
 
 **11**
+<img width="397" height="59" alt="image" src="https://github.com/user-attachments/assets/a4d5fcfb-4d74-416a-93ee-980172107582" />
 
-
+- Primeio o usuário tinha que digitar o número que ele queria saber a tabuada.
+- Então eu atribuí o valor de i que é de 1 a 10.
+- E depois eu pei para que no print ele fizesse o número vezes i.  
 
 
 
