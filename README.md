@@ -85,7 +85,7 @@ Caso ao contrário (else), o número é ímpar.
 
 - Primeiro eu coloquei no "banco de dados" que a senha é 676767.
 - Depois eu pedi para o usuário digitar a senha.
-- Então eu coloque um laço de repetição que se a senha for diferente (!=),ee deveria dar senha errad, e colocar para ele digita denovo.
+- Então eu coloque um laço de repetição que se a senha for diferente (!=),ele deveria dar senha errado, e colocar para ele digita denovo.
 - Se ele colocasse certo iria dar acesso liberado.
 
 **11**
@@ -93,7 +93,7 @@ Caso ao contrário (else), o número é ímpar.
 
 - Primeio o usuário tinha que digitar o número que ele queria saber a tabuada.
 - Então eu atribuí o valor de i que é de 1 a 10.
-- E depois eu pei para que no print ele fizesse o número vezes i.  
+- E depois eu dei para que no print ele fizesse o número vezes i.  
 
 
 
