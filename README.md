@@ -46,9 +46,24 @@ Caso ao contrário (else), o número é ímpar.
 
 <img width="600" height="373" alt="image" src="https://github.com/user-attachments/assets/24426325-b751-45d7-89b1-1f9eabcf3e32" />
 
+
 - int(input) Ele funciona para você digitar um número, para que possa saber se ele é primo ou não.
 - np = true, ele funciona para que o número é primo até que se prove ao contrário.
 - for i in range(2, num), ele cria um laço para que ele divida todos os números de 2 até o número que foi digitado.
 - if num % i == 0, ele vai texteando as divisões para ver se tem alguma divisão exta entre os números.
+
+**7.**
+<img width="556" height="130" alt="image" src="https://github.com/user-attachments/assets/253e2593-948e-4034-82cc-5d0c494c682d" />
+
+
+- Primeiro eu comecei, importando a biblioteca de matemática com o "import math"
+- Então eu usei o input para que o usuário possa digita o número que ele quer descorir o fatorial.
+- Então eu usei um laço de repetição "for" e atibuí um valor para i.
+- E depois eu coloquei que o fatorial é: A varíavel fatorial vezes i.
+- E entãoeu coloqui um print para que pudesse mostrar o fatorial que foi o que a pessoa pediu.
+
+ **8**
+ 
+
 - np = False, se ele encontrar alguma divisão que dê exata o número ele não é primo.
 - no final tem um print para mostrar se ele é primo ou não.
