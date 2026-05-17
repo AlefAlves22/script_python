@@ -75,8 +75,11 @@ Caso ao contrário (else), o número é ímpar.
     - sorted(L, reverse=true) = Que apesar do sorted deixar o termo em ordem crescente quando eu coloco que o reverse é o true(verdadeiro), ele entende que a a lista tem que colocar em ordem decrescente.
 
 **9**
+<img width="238" height="173" alt="image" src="https://github.com/user-attachments/assets/743a8df5-5597-4f88-aaac-cd412b8b343b" />
 
+- Esse é bem simples, eu criei um biblioteca de pedi para ele printar ela na tela.
 
+  **10.**
 
 
 
