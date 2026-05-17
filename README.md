@@ -81,5 +81,19 @@ Caso ao contrário (else), o número é ímpar.
 
   **10.**
 
+<img width="379" height="189" alt="image" src="https://github.com/user-attachments/assets/26b5d351-ac55-4ad6-8dcb-fc31dfae880e" />
+
+- Primeiro eu coloquei no "banco de dados" que a senha é 676767.
+- Depois eu pedi para o usuário digitar a senha.
+- Então eu coloque um laço de repetição que se a senha for diferente (!=),ee deveria dar senha errad, e colocar para ele digita denovo.
+- Se ele colocasse certo iria dar acesso liberado.
+
+**11**
+
+
+
+
+
+
 
 
